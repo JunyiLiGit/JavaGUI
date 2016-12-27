@@ -4,3 +4,6 @@
 [submodule "JavaGUI-TantrixGame"]
 	path = JavaGUI-TantrixGame
 	url = https://github.com/JunyiLiGit/JavaGUI-TantrixGame.git
+[submodule "Tantrix-Game"]
+	path = Tantrix-Game
+	url = https://github.com/JunyiLiGit/JavaGUI-TantrixGame.git
