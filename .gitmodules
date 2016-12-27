@@ -1,3 +1,6 @@
 [submodule "PascalTriangle"]
 	path = PascalTriangle
 	url = https://github.com/JunyiLiGit/JavaGUI-PascalTriangle.git
+[submodule "JavaGUI-TantrixGame"]
+	path = JavaGUI-TantrixGame
+	url = https://github.com/JunyiLiGit/JavaGUI-TantrixGame.git
