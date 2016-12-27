@@ -7,3 +7,6 @@
 [submodule "Tantrix-Game"]
 	path = Tantrix-Game
 	url = https://github.com/JunyiLiGit/JavaGUI-TantrixGame.git
+[submodule "PermutationVisulization"]
+	path = PermutationVisulization
+	url = https://github.com/JunyiLiGit/JavaGUI-PermutationVisulization.git
