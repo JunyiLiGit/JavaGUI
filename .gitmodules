@@ -1,0 +1,3 @@
+[submodule "PascalTriangle"]
+	path = PascalTriangle
+	url = https://github.com/JunyiLiGit/JavaGUI-PascalTriangle.git
